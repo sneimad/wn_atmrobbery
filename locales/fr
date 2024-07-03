@@ -1,0 +1,11 @@
+{
+    "atm": "Braquage de DAB",
+    "no_hacking_device": "Vous n'avez pas de dispositif de piratage",
+    "atm_robbed": "Ce DAB a déjà été cambriolé",
+    "robbing_atm": "Tu prends de l'argent",
+    "failed_hacking": "Vous avez échoué au hack",
+    "no_cops": "Pas assez de flics",
+    "target": "Rob ATM",
+
+    "test": "Test"
+}
